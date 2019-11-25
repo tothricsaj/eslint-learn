@@ -4,3 +4,7 @@ const people = [
     "Suzie",
     'charli'
 ];
+
+const sayHi = () => {
+    return "HELLLLLLLOOOOOOOOOOOO";
+}
