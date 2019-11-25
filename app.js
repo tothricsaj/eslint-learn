@@ -14,3 +14,20 @@ if ((10 === 222) || 'abc' === 'abc' && "doNothingWihtInsane"() && "isThisReallyH
     // do nothing
     console.log('YaY dude....what are you doing?');
 }
+
+const people = [
+    "bill",
+    'ted',
+    "Suzie",
+    'charli'
+];
+
+const sayHi = () => {
+    return "HELLLLLLLOOOOOOOOOOOO";
+}
+
+function Yheaaa() {
+    /* do nothing */
+}
+
+let StringVar = new String();
