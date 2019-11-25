@@ -1,0 +1,25 @@
+{
+  "name": "eslint-learn",
+  "version": "1.0.0",
+  "description": "EsLint learn repository =======================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tothricsaj/eslint-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tothricsaj/eslint-learn/issues"
+  },
+  "homepage": "https://github.com/tothricsaj/eslint-learn#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
